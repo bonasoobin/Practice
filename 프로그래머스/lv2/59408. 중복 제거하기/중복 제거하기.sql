@@ -1,0 +1,3 @@
+SELECT COUNT(name)
+ FROM (SELECT DISTINCT name 
+        FROM ANIMAL_INS);
