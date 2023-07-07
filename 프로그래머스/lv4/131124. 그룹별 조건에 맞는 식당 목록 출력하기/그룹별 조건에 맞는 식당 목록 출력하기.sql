@@ -1,0 +1,17 @@
+SELECT B.MEMBER_NAME, A.REVIEW_TEXT, TO_CHAR(REVIEW_DATE, 'YYYY-MM-DD') review_date
+FROM REST_REVIEW A
+    JOIN(
+        --리뷰를 가장 많이 작성한 회원의 ID, NAME, 리뷰 수
+        SELECT M.MEMBER_ID, M.MEMBER_NAME, COUNT(M.MEMBER_NAME) AS "CNT"
+        FROM REST_REVIEW R
+            LEFT JOIN MEMBER_PROFILE M
+            ON M.MEMBER_ID = R.MEMBER_ID
+        GROUP BY M.MEMBER_ID, M.MEMBER_NAME
+        HAVING COUNT(M.MEMBER_NAME) = (
+            -- 최대 리뷰 수 구하기 - 그룹함수 중첩 방지
+            SELECT MAX(COUNT(MEMBER_ID)) 
+            FROM REST_REVIEW 
+            GROUP BY MEMBER_ID)
+        )B
+ON A.MEMBER_ID = B.MEMBER_ID
+ORDER BY 3, 2;
