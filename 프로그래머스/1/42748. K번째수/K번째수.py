@@ -5,4 +5,3 @@ def solution(array, commands):
         a = sorted(a)
         answer.append(a[commands[i][2]-1])
     return answer
-
