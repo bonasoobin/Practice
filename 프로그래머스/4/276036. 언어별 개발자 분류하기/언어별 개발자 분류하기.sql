@@ -46,6 +46,7 @@ WITH
         SELECT "C" AS GRADE, c.ID
         FROM GRADE_C c
     )
+    
 SELECT a.GRADE, a.ID, b.EMAIL
 FROM ABC_DEVELOPERS a, DEVELOPERS b
 WHERE a.ID = b.ID
