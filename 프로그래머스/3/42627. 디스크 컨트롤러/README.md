@@ -1,6 +1,6 @@
 # [level 3] 디스크 컨트롤러 - 42627 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42627?language=python3) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42627) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 06월 03일 21:55:45
+2024년 06월 23일 23:08:02
 
 ### 문제 설명
 
