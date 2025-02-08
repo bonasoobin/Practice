@@ -1,6 +1,6 @@
 # [level 2] 조건에 맞는 아이템들의 가격의 총합 구하기 - 273709 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/273709?language=mysql) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/273709) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 2월 2일 9:41:24
+2025년 02월 08일 09:49:48
 
 ### 문제 설명
 
