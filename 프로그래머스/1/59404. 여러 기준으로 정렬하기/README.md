@@ -1,6 +1,6 @@
 # [level 1] 여러 기준으로 정렬하기 - 59404 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/59404?language=mysql) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/59404) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@ Empty
 
 ### 제출 일자
 
-2024년 2월 4일 23:36:59
+2025년 02월 08일 22:50:41
 
 ### 문제 설명
 
