@@ -1,6 +1,6 @@
 # [level 2] 가격대 별 상품 개수 구하기 - 131530 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131530?language=mysql) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131530) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@ Empty
 
 ### 제출 일자
 
-2024년 02월 24일 15:58:24
+2025년 02월 13일 00:11:41
 
 ### 문제 설명
 
