@@ -1,6 +1,6 @@
 # [level 2] 연도 별 평균 미세먼지 농도 조회하기 - 284530 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/284530?language=mysql) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/284530) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 03월 07일 00:21:41
+2025년 02월 13일 11:48:54
 
 ### 문제 설명
 
