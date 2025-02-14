@@ -1,6 +1,6 @@
 # [level 1] Python 개발자 찾기 - 276013 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/276013?language=mysql) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/276013) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 02월 22일 23:29:33
+2025년 02월 14일 17:13:28
 
 ### 문제 설명
 
