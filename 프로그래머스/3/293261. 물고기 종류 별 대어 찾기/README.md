@@ -1,6 +1,6 @@
 # [level 3] 물고기 종류 별 대어 찾기 - 293261 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/293261?language=mysql) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/293261) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 03월 18일 23:59:10
+2025년 02월 20일 08:59:43
 
 ### 문제 설명
 
